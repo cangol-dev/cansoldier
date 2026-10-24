@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**cansoldier/cansoldier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 🎓 I am Can, a first-year Industrial Engineering student at OSTIM Technical University (100% English Program).
 
-Here are some ideas to get you started:
+💡 I have a strong passion for exploring the intersection of **financial mathematics and human psychology** to model and systemize market behaviors. I focus on developing automated digital systems, data analysis, and building efficient quantitative tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+Quantitative Analysis | Algorithmic Trading Systems | Financial Data Analysis | Market Structure Modeling | Systems Automation
+
+### Tools & Languages:
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="TradingView" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+</p>
+
+- 🔭 I’m currently working on financial data analysis using machine learning.
+- 🌱 I’m currently learning Machine Learning and Advanced AI with Python.
+- 👯 I’m looking to collaborate on Quantitative Finance projects.
+- 📫 How to reach me: LinkedIn or Gmail
+- 😄 Pronouns: he/him
+
+  <!-- linkedin butonu -->
+  <a href="www.linkedin.com/in/cansoldier" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn">
+</a>
+
+<!-- Gmail Butonu -->
+<a href="mailto:cangolmail@gmail.com">
+  <img src="https://shields.io" alt="Gmail">
+</a>
